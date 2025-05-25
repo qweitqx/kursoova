@@ -1,18 +1,18 @@
 [
   {
-    "id": "3ff3f9666a7740538cd90da89a194723",
+    "id": "d8389d17e0ed4142a2a0f6f3b1acd070",
     "amount": 5000.0,
-    "category": "\u0439\u0446",
-    "type": "\u0414\u043e\u0445\u043e\u0434",
-    "description": "\u0444\u0432",
-    "date": "2025-05-15"
+    "category": "dwd",
+    "type": "Витрата",
+    "description": "wdw",
+    "date": "2025-05-25"
   },
   {
-    "id": "fdb600e628f54bd2a676c9825864964f",
+    "id": "2119ec23f38f436d943df58a71222b74",
     "amount": 5000.0,
-    "category": "\u0439\u0446",
-    "type": "\u0414\u043e\u0445\u043e\u0434",
-    "description": "\u0444\u0456",
-    "date": "2025-05-16"
+    "category": "dwdw",
+    "type": "Доход",
+    "description": "dwdw",
+    "date": "2025-05-25"
   }
 ]
